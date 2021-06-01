@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @helmoldComputop
+- 👀 I’m interested in working with PHP, XML and SQL for the purpose of SugarCRM
+- 🌱 I’m currently learning very many differnt things
